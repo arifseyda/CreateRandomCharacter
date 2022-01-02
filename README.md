@@ -1,6 +1,6 @@
 # Project Features
 
-This project develops with Java. 
+Rastegele_kelime_cümle_kurma project develops with Java. 
 
 - This project a lot of function blocks. One of them is that, it creates random character in chararray. This array has big and small characters. 
 - The other function creates three characters with ramdomly.
